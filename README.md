@@ -1,5 +1,8 @@
 # Media Campaign Cost Prediction
 
+![image](https://github.com/user-attachments/assets/763e96f8-900d-4146-857e-2a806743d36b)
+
+
 ## Goal
 The primary objectives of this project are:
 
